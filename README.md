@@ -7,4 +7,5 @@ The images are the designs that you should develop using css and html plain. Onl
 
 *Have clear and concise commit messages
 
-Design are in designs folder.They include design of difference devices therefore, mobile responsiveness will be key
+Design are in Images are in the repo.They include design of difference devices therefore, mobile responsiveness will be key.
+Do not use javascript and components that require javascript like menu can just be displayed without the functionality
